@@ -7,4 +7,4 @@ I have created two python script one(work.py) for work related webpages and othe
 
 You can edit your favourite sites by just opening python script in python IDLE and change the urls.
 
-Indeed this works fine to me.
+Indeed this works fine to me!!
